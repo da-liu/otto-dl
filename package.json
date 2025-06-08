@@ -3,6 +3,7 @@
   "displayName": "otto",
   "description": "auto mode",
   "version": "0.0.1",
+  "publisher": "da-liu",
   "engines": {
     "vscode": "^1.100.0"
   },
